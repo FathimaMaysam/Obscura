@@ -11,3 +11,4 @@ reportlab
 google-genai==0.6.0
 gunicorn
 python-dotenv
+python-bidi==0.4.2
